@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Launcher
 // @namespace   AposLauncher
-// @include     http://agar.turkish-gaming.com/
+// @include     http://www.agariopvp.com/
 // @version     2.2
 // @grant       none
 // @author      http://www.twitch.tv/apostolique
